@@ -1,0 +1,65 @@
+#bdy{
+    background-color: white;
+    display: flex;
+   margin-top: 100px;
+   margin-left:160px;
+}
+.texting{
+    border: 1px solid rgb(239, 229, 229);
+    height: 500px;
+    width:  500px;
+    text-align: center;
+    color: #f7faff;
+    font-family: sans-serif;
+    background-color: #1877F2;
+}
+.Frm{ 
+    border: 1px solid rgb(253, 247, 247);
+    height:500px;
+    width: 500px;
+    text-align: center;
+}
+.forgot{
+    color: #1877F2;
+    display: inline;
+}
+:hover.forgot{
+   color: #5890FF;
+   cursor: pointer;
+   text-decoration: underline;
+}
+#btn{
+    padding-left:  95px;
+    padding-right: 95px;
+    border-radius: 5%;
+    border-color: transparent;
+    background-color: #5890FF;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+:hover#btn{
+    background-color: #1877F2;
+    cursor: pointer;
+}
+#txt{
+    margin-top: 20%;
+    padding-left: 30px;
+    padding-right:30px;
+}
+#pass{
+    padding-left: 30px;
+    padding-right:30px ;
+    margin-bottom: 15px;
+
+}
+.facebook{
+    margin-top: 20%;
+    text-decoration: solid;
+}
+:hover.facebook{
+    cursor: pointer;
+}
+:hover.fb{
+    cursor: pointer;
+}
